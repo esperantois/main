@@ -89,3 +89,7 @@ body {
     border-radius: 12px;
     width:400px;   
 }
+.button:hover {
+    background-color:#27282c ;
+    transition-duration: 0.4s;
+}
