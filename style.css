@@ -44,6 +44,7 @@ body {
 .img2 {
     width:850px;
     margin-left:100px;
+    margin-top:35px;
 }
 .img3 {
     width:850px;
@@ -87,4 +88,11 @@ body {
     background-color: #292C33;
     border-radius: 12px;
     width:400px;   
+}
+.a {
+    text-decoration: none;
+    color: #CFCFCF;
+}
+.a:hover {
+    color: #004a93;
 }
