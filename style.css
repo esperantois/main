@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 body {
     font-family: 'Montserrat', sans-serif;
+    background-color: #33363d;
 }
 .div1 {
     box-sizing: content-box;
@@ -11,16 +12,19 @@ body {
     padding-left: 27px;
     padding-bottom:40px;
     height:5px;
+    color: #004a93;
 }
 .img {
-    margin-left:53px;
+    margin-left:20px;
+    width: 250px;
 }
 .p1 {
     font-weight: 400;
+    color: #CFCFCF;
 }
 .vil {
     font-weight: 700;
-    color: red;
+    color: #004a93;
 }
 .flex {
     display: flex;
@@ -35,6 +39,7 @@ body {
 .p2 {
     width: 700px;
     margin-left: 70px;
+    color: #CFCFCF;
 }
 .img2 {
     width:850px;
@@ -60,8 +65,20 @@ body {
     width:850px;
     margin-left:100px;
 }
+.img8 {
+    width:850px;
+    margin-left:100px;
+}
+.img9 {
+    width:850px;
+    margin-left:100px;
+}
+.img10 {
+    width:850px;
+    margin-left:100px;
+}
 .h2 {
     margin-top:50px;
-    margin-left:350px;
+    margin-left:300px;
     font-size: 25px;
 }
