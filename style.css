@@ -37,24 +37,28 @@ body {
     margin-left: 70px;
 }
 .img2 {
-    width:450px;
-    margin-left:50px;
-    margin-top:50px;
-} 
+    width:850px;
+    margin-left:100px;
+}
 .img3 {
-    width:450px;
+    width:850px;
+    margin-left: 100px;
 }
 .img4 {
-    width:450px;
-    margin-left:50px;
+    width:850px;
+    margin-left:100px;
 }
 .img5 {
-    width:450px;
+    width:850px;
+    margin-left:100px;
 }
-
+.img6 {
+    width:850px;
+    margin-left:100px;
+}
 .img7 {
-    width: 450px;
-    margin-left:300px;
+    width:850px;
+    margin-left:100px;
 }
 .h2 {
     margin-top:50px;
